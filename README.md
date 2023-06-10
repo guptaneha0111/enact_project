@@ -29,7 +29,7 @@ Clone the Repository from Github. Then do the following steps:
  
  This is the landing page when user visits the website for first time.
 
-  ![App Screenshot](![enact_img](https://github.com/guptaneha0111/enact_project/assets/107460413/d2b761ae-c4bf-417d-a6b4-78d204822391)
+  <img src="https://user-images.githubusercontent.com/107903370/229373136-54efcca0-f011-4eab-aee3-7d0d2a4c6a45.png"  alt="home" />
 )
   
   
