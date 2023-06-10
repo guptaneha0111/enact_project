@@ -286,6 +286,8 @@ const Home=()=>{
    <p> Promo code is required. Excludes mobile phone.</p>
   </div>
 </div>
+
+{/* completed */}
  </>
     )
 }
