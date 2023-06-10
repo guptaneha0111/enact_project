@@ -8,7 +8,7 @@ Html, reactjs, tailwindcss
 
 ## Deployment Link
 
-https://semrush.netlify.app/
+https://enact-project.vercel.app/
 
 
 ## Installation
