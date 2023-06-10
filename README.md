@@ -25,7 +25,7 @@ Clone the Repository from Github. Then do the following steps:
 
 ## Screenshots
 
- ### Home Page
+ ### Home page
  
  This is the landing page when user visits the website for first time.
 
